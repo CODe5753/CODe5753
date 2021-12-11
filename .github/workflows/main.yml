@@ -28,7 +28,8 @@ jobs:
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Commit Tistory posts
+      - uses: actions/checkout@v2
+      - name: Commit Animation
         run: |
           git add .
           git diff
