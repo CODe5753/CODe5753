@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn&customColorList=2)
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
@@ -15,4 +15,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
